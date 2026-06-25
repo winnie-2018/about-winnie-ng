@@ -14,7 +14,7 @@ To ensure we all survive and thrive this semester, here are my core expectations
 
 *   **Prep Before Class:** Do your tutorial questions <font color="#ff4500">before</font> stepping into the classroom. 
 *   **Context is Key:** You do not have to finish all of them. Just do whichever questions you feel confident with. At least try to have some context before class starts.
-*   <font color="#ff4500">**Responsible AI Use:**</font> Feel free to use AI tools to help with your work and tutorial questions. 
+*   **Responsible AI Use:** Feel free to <font color="#ff4500">use AI tools</font> to help with your work and tutorial questions. 
 *   **Don't Blindly Copy:** Make sure you actually understand the AI's output. If I tweak the question slightly in class, you must be able to answer it yourself.
 *   **Classroom Decorum:** I do not tolerate swear words, profanity, or any lewd or disrespectful gestures in my class. Keep it <font color="#ff4500">professional and respectful</font>.
 *   **No Bribery:** Do not attempt to buy me snacks, drinks, or coffee during consultation hours. I do <font color="#ff4500">not accept any form of bribes</font>.
@@ -75,9 +75,9 @@ When I am not teaching you all, I work as a **Software Engineer in Test Automati
 <details>
 <summary><b>⚠️ STATUS REPORT: RELATIONSHIP </b></summary>
 
-*   **Current Status:** Happily single.
-*   **Availability:** Emotionally and financially completely unavailable. 
-*   **The Reason:** Please look at the ridiculously long list of action-movie side quests above. My time and bank account are entirely occupied. Focus on your own side quests instead of dating drama!
+*   Happily single.
+*   Emotionally and financially completely unavailable. 
+*   Ridiculously long list of action-movie side quests above. My time and bank account are entirely occupied. Focus on your own side quests instead of dating drama!
 
 </details>
 
