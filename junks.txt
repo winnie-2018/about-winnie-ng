@@ -1,0 +1,18 @@
+Themes: 
+    Architect
+    Cayman
+    Dinky
+    Hacker
+    Leap day
+    Merlot
+    Midnight
+    Minima
+    Minimal
+    Modernist
+    Slate
+    Tactile
+    Time machine
+
+Command to run localhost 3000: npx serve -l 3000
+
+Website: https://winnie-2018.github.io/about-winnie-ng/
