@@ -67,7 +67,7 @@ If you ever see me eating or drinking on campus, you will notice my diet is incr
 *   **What I Love:** Not a picky eater for main meals—I love fish, chicken 🐔, beef 🥩, all sorts of vegetables 🥔 🥕 🌽 🫑 🥒 🥬 🥦 🍄 🍠, and noodles 🍜.
 *   **The Coffee Standard:** I only drink very bitter coffee. No sugar, no syrups. ☕
 *   **The Absolute Bans:** Strictly no spicy 🌶️ food, no mutton 🐐, no sweets 🍬, no sugary desserts 🧋, and no sweet drinks 🧋.
-*   **The Pork Loophole:** No pork 🐷 at all—*except* for bacon specifically made from pig back.
+*   **Fatty meat:** No pork 🐷 
 
 ---
 
@@ -76,7 +76,7 @@ If you ever see me eating or drinking on campus, you will notice my diet is incr
 *   **Classroom Rule:** Do your tutorial prep, use AI responsibly, and keep it respectful. No swearing, no lewd gestures, and <font color="#ff4500">strictly no food bribes</font>.
 *   **Fuel:** Powered entirely by <font color="#ff4500">copious amounts of milk</font>. 🥛
 *   **Interests:** Collecting active hobbies and researching neuroscience just for fun.
-*   **Chat with me about:** Anything in my side quests list, brain chemistry, tech automation.
+*   **Chat with me about:** Anything in my side quests list, 🤯 brain chemistry, AI.
 
 ---
 
