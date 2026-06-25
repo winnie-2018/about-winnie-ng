@@ -85,7 +85,7 @@ If you ever see me eating or drinking on campus, you will notice my diet is incr
 
 *   Happily single.
 *   Emotionally and financially completely unavailable. 
-*   Ridiculously long list of action-movie side quests above. My time and bank account are entirely occupied. Focus on your own side quests instead of dating drama!
+*   Ridiculously long list of action-movie side quests above. My time and bank account 💸 are entirely occupied. Focus on your own side quests instead of dating drama!
 
 </details>
 
