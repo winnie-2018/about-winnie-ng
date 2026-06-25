@@ -24,16 +24,30 @@ To ensure we all survive and thrive this semester, here are my core expectations
 ### 🏎️ THE ACTIVE SIDE QUESTS (INTERESTS)
 I love collecting physical and high-adrenaline skills purely for the fun of it. When I am not grading your work or coding, I am out exploring these activities:
 
-*   🏋️‍♂️ **Fitness & Combat:** Gymming & Weightlifting, Fighting & Tricking, Running
-*   🐎 **Speed & Precision:** Horse Riding, Motorsport, Target Shooting
-*   🧗‍♂️ **Adventure:** Climbing & Swimming
-*   🧠 **Creative & Lifestyle:** Cooking, Researching about nutrition, Writing skits
+*   🏋️‍♂️ **Gymming**
+*   💪 **Weightlifting**
+*   🥊 **Fighting**
+*   🤸‍♂️ **Tricking**
+*   🏃‍♂️ **Running**
+*   🐎 **Horse Riding**
+*   🏎️ **Motorsport**
+*   🎯 **Target Shooting**
+*   🧗‍♂️ **Climbing**
+*   🏊‍♂️ **Swimming**
+*   🍳 **Cooking**
+*   🔬 **Researching about nutrition**
+*   ✍️ **Writing skits**
 
 #### 🗺️ Locked Map (My Current Bucket List)
 I am always looking for the next challenge. Currently trying to unlock:
-*   🤿 **Diving & Archery:** Diving, Archery
-*   ⚽ **Sports:** Football, Skiing & Snowboarding
-*   🏕️ **Outdoors:** Photography, Camping
+*   🤿 **Diving**
+*   🏹 **Archery**
+*   ⚽ **Football**
+*   🎿 **Skiing**
+*   🏂 **Snowboarding**
+*   📷 **Photography**
+*   🏕️ **Camping**
+
 
 ---
 
