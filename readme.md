@@ -73,7 +73,7 @@ When I am not teaching you all, I work as a **Software Engineer in Test Automati
 ---
 
 <details>
-<summary><b>⚠️ STATUS REPORT</b></summary>
+<summary><b>⚠️ STATUS REPORT: RELATIONSHIP </b></summary>
 
 *   **Current Status:** Happily single.
 *   **Availability:** Emotionally and financially completely unavailable. 
