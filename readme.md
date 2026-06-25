@@ -21,6 +21,16 @@ To ensure we all survive and thrive this semester, here are my core expectations
 
 ---
 
+### 🧠 BEYOND NUMBERS: BACKGROUND AND MAIN QUESTS
+When I am not teaching you all, I enjoy diving deep into analytical systems and human behavioral patterns just for fun:
+
+*   📊 **Statistics & Math Background:** Numbers don't lie, and structured logic runs my world. 
+*   🤖 **Data Science Projects:** Translating complex datasets into actionable code models using **Python**.
+*   🎭 **Test Automation:** Using **TypeScript & Playwright** to automate browsers and run end-to-end software testing.
+*   🌱 **Neuroscience & Psychology:** Deeply interested in learning about psychology, neuroscience, and mental health concepts (including food, planning, and activities) simply to understand human minds better.
+
+---
+
 ### 🏎️ THE ACTIVE SIDE QUESTS (INTERESTS)
 I love collecting physical and high-adrenaline skills purely for the fun of it. When I am not grading your work or coding, I am out exploring these activities:
 
@@ -48,7 +58,6 @@ I am always looking for the next challenge. Currently trying to unlock:
 *   📷 **Photography**
 *   🏕️ **Camping**
 
-
 ---
 
 ### 🥩 THE FUEL STATION (FOOD RULES)
@@ -59,16 +68,6 @@ If you ever see me eating or drinking on campus, you will notice my diet is incr
 *   **The Coffee Standard:** I only drink very bitter coffee. No sugar, no syrups. ☕
 *   **The Absolute Bans:** Strictly no spicy 🌶️ food, no mutton 🐐, no sweets 🍬, no sugary desserts 🧋, and no sweet drinks 🧋.
 *   **The Pork Loophole:** No pork 🐷 at all—*except* for bacon specifically made from pig back.
-
----
-
-### 🧠 BEYOND NUMBERS: INTELLECTUAL & TECH QUESTS
-When I am not teaching you all, I work as a **Software Engineer in Test Automation**. I enjoy diving deep into analytical systems and human behavioral patterns just for fun:
-
-*   📊 **Statistics & Math Background:** Numbers don't lie, and structured logic runs my world. 
-*   🤖 **Data Science Projects:** Translating complex datasets into actionable code models using **Python**.
-*   🎭 **Test Automation:** Using **TypeScript & Playwright** to automate browsers and run end-to-end software testing.
-*   🌱 **Neuroscience & Psychology:** Deeply interested in learning about psychology, neuroscience, and mental health concepts (including food, planning, and activities) simply to understand human minds better.
 
 ---
 
