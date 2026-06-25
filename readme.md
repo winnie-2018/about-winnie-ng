@@ -59,13 +59,14 @@ When I am not teaching you all, I work as a **Software Engineer in Test Automati
 ---
 
 <details>
-<summary><b>⚠️ STATUS REPORT: RELATIONSHIP STATUS</b></summary>
+<summary><b>⚠️ STATUS REPORT</b></summary>
 
 *   **Current Status:** Happily single.
 *   **Availability:** Emotionally and financially completely unavailable. 
 *   **The Reason:** Please look at the ridiculously long list of action-movie side quests above. My time and bank account are entirely occupied. Focus on your own side quests instead of dating drama!
 
 </details>
+
 
 ---
 *✨ Engineering quality, one script and one student at a time. Let's have a great semester!*
