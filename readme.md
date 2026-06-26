@@ -65,7 +65,6 @@ If you ever see me eating or drinking on campus, you will notice my diet is incr
 
 *   **The Ultimate Obsession:** I absolutely love milk. I literally cannot survive without it. 🥛
 *   **What I Love:** Not a picky eater for main meals—I love fish 🐟, chicken 🐔, beef 🥩, all sorts of vegetables 🥔 🥕 🌽 🫑 🥒 🥬 🥦 🍄 🍠, and noodles 🍜.
-*   **The Coffee Standard:** I only drink very bitter coffee. No sugar, no syrups. ☕
 *   **The Absolute Bans:** Strictly no spicy 🌶️ food, no mutton 🐐, no sweets 🍬, no sugary desserts 🧋, and no sweet drinks 🧋.
 *   **Fatty meat:** No pork 🐷 
 
