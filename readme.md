@@ -2,7 +2,7 @@
 
 ## I'm your tutor, Winnie Ng 👨‍🏫
 **Modules:** DBU1S1G9 | DFI1S1G4 | DBU1S1G11 | DAC1S1G22  
-📍 *Find me in class, around campus, or right here in your class!*
+📍 *Find me in class, around campus, or right here!*
 
 > 📢 **Note:** Sometimes you might find me intimidating. Trust your instinct.
 
